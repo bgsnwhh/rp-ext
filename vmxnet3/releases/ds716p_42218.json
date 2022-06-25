@@ -3,9 +3,9 @@
 
   "files": [
     {
-      "name": "vmxnet3-4.4.180plus.tgz",
-      "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/vmxnet3/releases/vmxnet3-4.4.180plus.tgz",
-      "sha256": "06847d4323edbd20df444c1a62699875ac7959b787f7f3c2a00443fd26048f68",
+      "name": "vmxnet3-3.10.108.tgz",
+      "url": "https://raw.githubusercontent.com/bgsnwhh/rp-ext/main/vmxnet3/releases/vmxnet3-3.10.108.tgz",
+      "sha256": "756c9c56cb285d0427307b4540ec2cb44e5adb1c96426820c423feb069690136",
       "packed": true
     },
     {
